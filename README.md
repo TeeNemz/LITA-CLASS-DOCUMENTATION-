@@ -2,6 +2,21 @@
 This is where I documented my first project while learning Data Analysis with Incubator Hub
 ## PROJECT TITLE: E Commerce Sales Analysis
 
+[PROJECT OVERVIEW](#project-overview)
+
+[DATA SOURCES](#data-sources)
+
+[TOOLS USED](#tools-used)
+
+[DATA CLEANING AND PREPARATIONS](#data-cleaning-and-preparations)
+
+[EXPLORATORY DATA ANALYSIS](#exploratory-data-analysis)
+
+[DATA ANALYSIS](#data-analysis)
+
+[DATA VISUALIZATION](#data-visualization)
+
+ 
 ### PROJECT OVERVIEW
 ---
 This Data Analysis project aims to generate insight into the sales performance of the E commerce project over the past year. By analyzing the various parameters in the data received we seek to gather enough insight to make reasonable decisions which then enable us to tell compelling stories around our data from the insight gotten and to know the best performance from our data.
@@ -43,6 +58,7 @@ The primary source of Data used here is Data sale.csv and this is an open source
     WHERE CONDITION = TRUE
     ```
  ### DATA VISUALIZATION
+
 ![barchart_ver_1](https://github.com/user-attachments/assets/cec71c0b-20e6-41ed-87f3-c6328c9f2e72)
 
     
