@@ -50,14 +50,14 @@ The primary source of Data used here is Data sale.csv and this is an open source
   - What are the products on peak sales?
 
  ### DATA ANALYSIS
- -
-    This is where we include some basic lines of code or queries or even some of the DAX expressions used during your analysis;
+ ---
+ This is where we include some basic lines of code or queries or even some of the DAX expressions used during your analysis;
     
-    ```SQL
-    SELECT * FROM TABLE 1
-    WHERE CONDITION = TRUE
-    ```
+ ```SQL
+SELECT * FROM TABLE 1
+WHERE CONDITION = TRUE
+ ```
+
  ### DATA VISUALIZATION
 
     
-![barchart_ver_1](https://github.com/user-attachments/assets/7c90e465-5d98-44bd-81cb-78e152b0fad5)
