@@ -59,6 +59,5 @@ The primary source of Data used here is Data sale.csv and this is an open source
     ```
  ### DATA VISUALIZATION
 
-![barchart_ver_1](https://github.com/user-attachments/assets/cec71c0b-20e6-41ed-87f3-c6328c9f2e72)
-
     
+![barchart_ver_1](https://github.com/user-attachments/assets/7c90e465-5d98-44bd-81cb-78e152b0fad5)
