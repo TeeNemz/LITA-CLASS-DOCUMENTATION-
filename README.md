@@ -43,4 +43,6 @@ The primary source of Data used here is Data sale.csv and this is an open source
     WHERE CONDITION = TRUE
     ```
  ### DATA VISUALIZATION
+![barchart_ver_1](https://github.com/user-attachments/assets/cec71c0b-20e6-41ed-87f3-c6328c9f2e72)
+
     
